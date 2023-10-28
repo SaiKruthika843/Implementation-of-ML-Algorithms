@@ -1,7 +1,10 @@
 # Implementation-of-ML-Algorithms
 Implementation of ML algorithms from scratch on US census dataset.
+
 The algorithms are Decision Tree, Random Forest, Naive Bayes Classifier,Logistic Regression, Neural Networks with 1,2,3 hidden layers.
+
 The following observations were made :
+
 Naïve bayes
 Accuracy: 0.8369264787175235
 Precision: 0.6042641705668227
